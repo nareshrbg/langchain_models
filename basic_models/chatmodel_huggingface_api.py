@@ -11,9 +11,8 @@ if not hf_token:
     exit() # Exit if token is not found
 
 llm = HuggingFaceEndpoint(
-    repo_id="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    repo_id="google/gemma-2-2b-it",
     task="text-generation",
-    huggingface_api_token=hf_token
 )
 
 model = ChatHuggingFace(llm=llm)

@@ -25,3 +25,4 @@ huggingface-hub
 python-dotenv
 
 ipykernel
+streamlit
