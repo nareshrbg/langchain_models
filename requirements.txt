@@ -18,6 +18,10 @@ google-generativeai
 
 # Hugging Face Integration
 langchain-huggingface
+langchain-groq
+langserve
+langchain_community
+uvicorn
 transformers
 huggingface-hub
 
