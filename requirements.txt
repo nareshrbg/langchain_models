@@ -36,3 +36,4 @@ langchain_chroma
 youtube-transcript-api
 tiktoken
 pypdf
+langchain_experimental
