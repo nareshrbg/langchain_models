@@ -30,3 +30,9 @@ python-dotenv
 
 ipykernel
 streamlit
+bs4
+sentence-transformers
+langchain_chroma
+youtube-transcript-api
+tiktoken
+pypdf
